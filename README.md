@@ -12,7 +12,7 @@ Personal resume website for Angelo, a Computer Science student at California Sta
 ## GitHub Pages
 After publishing the repository with GitHub Pages, replace this placeholder with your live URL:
 
-`https://YOUR-USERNAME.github.io/comp484-hw8/`
+https://avari77343.github.io/comp484-hw8/
 
 ## Before submitting
 - Replace the placeholder email, GitHub, and LinkedIn destinations with your actual contact links, or remove the links you do not use.
